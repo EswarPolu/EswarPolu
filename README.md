@@ -1,31 +1,80 @@
-# 💫 About Me:
-I'm currently working on doctor appointment booking mobile app using react native <br>I'm looking for help with in web page of react<br>I'm currently learning AWS architecture to learn cloud <br>Ask me about Mern stack and Java Full Stack<br>Fun fact i am 22 years old
+# Hey, I'm Nandeeswar Reddy Polu
 
+**DevOps & Cloud Engineer** based in Hyderabad, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/polu-nandeeswar-reddy-6077482a1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCqDIVo5oISYICr0Vym3kzNw) 
+I build and manage production infrastructure on AWS — currently the sole DevOps owner for 5 live applications at Yotta Tech Ports, supporting 3 dev teams and 20+ engineers. I focus on infrastructure automation, cost optimization, and keeping systems reliable.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EeswarSunny&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EeswarSunny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EeswarSunny&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Maintaining <20 min MTTR across production systems
+- Saved ~60% on SaaS licensing and ~40% on compute costs through automation and FinOps
+- Reduced deployment times from 2 hours to 12 minutes via GitOps pipelines
+- Writing about AWS and DevOps on Medium
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EeswarSunny&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EeswarSunny&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-eswarpolu.github.io-orange?style=flat-square&logo=firefox)](https://eswarpolu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-polu--nandeeswar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/polu-nandeeswar)
+[![Medium](https://img.shields.io/badge/Medium-@eswarpolu-black?style=flat-square&logo=medium)](https://medium.com/@eswarpolu)
+[![Email](https://img.shields.io/badge/Email-polunandeeswar2002@gmail.com-red?style=flat-square&logo=gmail)](mailto:polunandeeswar2002@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EeswarSunny&icon=10&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/EeswarSunny?country.x=IN&locale.x=en_GB) 
+## Tech Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF4F8B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white) ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white)
+
+**CI/CD & Automation**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Observability & Monitoring**
+
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Security & Governance**
+
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white) ![GuardDuty](https://img.shields.io/badge/GuardDuty-%23FF4F8B.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WAF](https://img.shields.io/badge/AWS%20WAF-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HCL](https://img.shields.io/badge/HCL-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Databases**
+
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-%23527FFF.svg?style=for-the-badge&logo=amazon-rds&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## What I've Been Building
+
+**Production Infrastructure at Yotta Tech Ports** — Sole DevOps owner managing 5 live apps (GitLab, SonarQube, OpenProject, FlexHR, custom internal tools) on AWS with full-stack provisioning: VPC, EFS, RDS, ALB, Route 53.
+
+**Self-Hosted GitLab on AWS ECS** — Designed and deployed production-grade GitLab using Docker on ECS with a single-click CodePipeline deployment, saving $3-5K/year in SaaS licensing.
+
+**Multi-Account Lambda Automation** — Built EC2 idle-shutdown automation across 10+ AWS accounts, cutting compute spend by ~40%/month.
+
+**Security Auto-Remediation** — Lambda function that detects and remediates overly permissive security groups, reducing manual audit effort by ~90%.
+
+**Terraform Modular Infrastructure** — Production-ready collection of modular HCL patterns for high-availability AWS environments. [View on GitHub](https://github.com/EeswarSunny/Terraform-basics)
+
+---
+
+## Blog Posts
+
+- [4 AWS IAM Truths That Will Change How You Manage Cloud Security](https://medium.com/aws-in-plain-english/4-aws-iam-truths-that-will-change-how-you-manage-cloud-security-%EF%B8%8F-7a0a393e2b59)
+- [Demystifying Docker: 5 Foundational Concepts for Beginners](https://medium.com/aws-in-plain-english/demystifying-docker-5-foundational-concepts-for-beginners-5e7e7cdf2aea)
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=EswarPolu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EswarPolu&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EswarPolu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
